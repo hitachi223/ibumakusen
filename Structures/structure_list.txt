@@ -1,0 +1,4 @@
+BveTs Structure List 1.00
+Rail0,rail\Rail0.x
+Grass,Grass\Grass.x
+ski,ski\Bg.x

@@ -1,0 +1,9 @@
+BveTs Scenario 2.00
+Title = 指宿枕崎線
+Author = S&S
+Image = ibumakusen\thumnail.jpg
+Route = ibumakusen\map.txt
+RouteTitle = A_指宿枕崎線_開発路線
+Vehicle = 豊肥線 - 豊肥線05_5428D\JRK_DC220200_bt\Vehicle.txt
+VehicleTitle = キハ200
+Comment = 工事中
